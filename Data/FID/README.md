@@ -1,6 +1,7 @@
 # Structure:
 
-1. VIW_FID_EPI.csv : Contains the data we will be using to train our model
-2. VIW_FLU_METADATA.csv : Contains information about the different datasets we could procure
-3. ~lock.VIW_FID_EPI.csv : Something cool that David probably did, more info later
-4. fid-eda.ipynb : Jupyter Notebook containing some EDA done by Divy.
+1. _`VIW_FID_EPI.csv`_ : Contains the data we will be using to train our model
+2. _`VIW_FLU_METADATA.csv`_: Contains information about the different datasets we could procure
+3. _  `~lock.VIW_FID_EPI.csv` _: Something cool that David probably did, more info later
+4. _`fid-eda.ipynb`_ : Jupyter Notebook containing some EDA done by Divy.
+5. _`filter2.csv`_ : Cleaned data to be used for training models
