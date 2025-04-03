@@ -3,3 +3,9 @@
 1. [D-FENSE](https://github.com/americocunhajr/D-FENSE) : The D-FENSE Dataset contains 20000 rows and 9 columns. It is designed to store and share data on dengue in Brazil while developing effective predictive models for outbreaks. This initiative aims to meet the growing need for dengue monitoring and forecasting, enabling in-depth analysis and supporting public health decision-making.
 
 2. [DrivenData](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/data/) : The DrivenData dataset contains 1500 rows and 24 columns. It is designed to predict the number of Dengue fever cases reported in each week using comprehensive record of San Juan and Iquitos Dengue activity by analyzing climate and weather, temporal, vegetation Indices, and epidemiological data, supporting research and public health initiatives.
+
+# Scirpt Information 
+
+1. D-Fense_Data_Agregator.ipynb : Merged all 27 .csv of processed data into order properly by epidemiological year and week
+
+2. D-Fense_Data_pop_agregator.ipynb : Calculated the regions populations by year and stored in 
